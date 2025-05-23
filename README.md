@@ -1,5 +1,5 @@
 # minfo-prova
-
+Nome: João Pedro Vassalo RM: 563836
 ## Descrição
 Script simples em Bash para exibir informações do sistema: hostname, uptime e uso do disco.
 
